@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeEFCore", "EmployeeEFCore\EmployeeEFCore.csproj", "{13BC991E-7897-41D1-AFCA-2A37EDD40993}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmployeeXunitMoqTest", "EmployeeXunitMoqTest\EmployeeXunitMoqTest.csproj", "{DA2B5923-FB2B-4153-9800-97D3660ACB5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13BC991E-7897-41D1-AFCA-2A37EDD40993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13BC991E-7897-41D1-AFCA-2A37EDD40993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13BC991E-7897-41D1-AFCA-2A37EDD40993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13BC991E-7897-41D1-AFCA-2A37EDD40993}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA2B5923-FB2B-4153-9800-97D3660ACB5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA2B5923-FB2B-4153-9800-97D3660ACB5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA2B5923-FB2B-4153-9800-97D3660ACB5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA2B5923-FB2B-4153-9800-97D3660ACB5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CAEFCC06-DF1D-470A-9AD3-A691DA659968}
+	EndGlobalSection
+EndGlobal
